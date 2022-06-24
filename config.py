@@ -1,0 +1,1 @@
+PG_DSN = 'postgresql+asyncpg://user:password@localhost/addb'
